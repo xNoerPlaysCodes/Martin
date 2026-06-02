@@ -8,6 +8,7 @@ docs/*
 .DS_Store
 
 build/*
+build-win/*
 bin/*
 !bin/resources/
 run.sh
